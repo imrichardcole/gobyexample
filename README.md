@@ -1,1 +1,1 @@
-A place to work through Go by examples (https://gobyexample.com) 
+A place to work through Go by example (https://gobyexample.com) 
